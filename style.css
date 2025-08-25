@@ -1,0 +1,28 @@
+h1 {
+    background-color: lightblue;
+}
+
+button {
+    border-radius: 50px;
+}
+
+button:hover{
+    color: red;
+}
+
+div {
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+fieldset {
+    border-radius: 25px;
+    padding: 30px;
+}
+
+.p{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-evenly;
+    margin: 300px;
+}

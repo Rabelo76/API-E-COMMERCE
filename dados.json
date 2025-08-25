@@ -1,0 +1,22 @@
+{
+    "name": "Nirvana",
+    "album": "Unplugged in New York",
+    "style": "Rock",
+    "price": "R$29,90",
+    "image": "<img src='img/img.png' width='100px'>",
+    
+    
+    "name1": "Metalica",
+    "album1": "Master of Puppets",
+    "style1": "Rock",
+    "price1": "R$29,90",
+    "image1": "<img src='img/img1.jpg' width='100px'>",
+    
+    
+    "name2": "Queen",
+    "album2": "News of the World",
+    "style2": "Rock",
+    "price2": "R$29,90",
+    "image2": "<img src='img/img2.jpg' width='100px'>"   
+}
+    
